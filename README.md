@@ -1,4 +1,5 @@
-# 👋 Welcome to My Portfolio
+# 👋 Welcome to My Portfolio 
+# I'm Radhika Rakhasiya 💁‍♀️
 
 I'm a passionate Flutter Developer with a strong focus on creating high-quality mobile applications. Here, you’ll find my main project, showcasing my skills in cross-platform development, UI/UX design, and state management, My aim is to build user-friendly applications that solve real-world problems with user friendly UI.
 
