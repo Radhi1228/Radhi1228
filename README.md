@@ -27,8 +27,7 @@ ProfilePage , Light & Dark Themes,Splash Screen, ChatPage for Each Use. This pro
 | Project Name          | Description                                                 | Tech Stack     |
 |-----------------------|-------------------------------------------------------------|----------------|
 | [Weather App](https://github.com/Radhi1228/Sky_scapper)     | Fetch Weather Data and display,Detail Screen for Each City/State Wise Weather Detail,save city  | Flutter, Dart, API, Shared preferance |
-| [Bhagvad Geeta](https://github.com/Radhi1228/Bhagvad_Geeta)     | All (18) chapters of Geeta using JSON Data,All Verses of Each type of Chapter, Light & Dark Theme (Shared Prefrence)
-Save favorite chapter & verses (using Shared Prefrence )     | Flutter, JSON Data,Sqlites |
+| [Bhagvad Geeta](https://github.com/Radhi1228/Bhagvad_Geeta)     | All (18) chapters of Geeta using JSON Data,All Verses of Each type of Chapter, Save favorite chapter & verses   | Flutter, JSON Data,Sqlites |
 | [Quotes App](https://github.com/Radhi1228/DB_miner)     | All catrgories of quotes (using sqlites) (UI+logic) Detail Screen of Each type of Quotes,Bookmark of favorite quotes (using sqlite)  | Flutter, API,Sqlites |
 
 ## 🌱 Currently Learning
