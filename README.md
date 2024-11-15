@@ -1,38 +1,38 @@
 # 👋 Welcome to My Portfolio
 
-I'm a passionate **Flutter Developer** with a strong focus on creating high-quality mobile applications. Here, you’ll find my main project and other contributions, showcasing my skills in **cross-platform development**, **UI/UX design**, and **state management**. My aim is to build user-friendly applications that solve real-world problems.
+I'm a passionate Flutter Developer with a strong focus on creating high-quality mobile applications. Here, you’ll find my main project, showcasing my skills in cross-platform development, UI/UX design, and state management, My aim is to build user-friendly applications that solve real-world problems with user friendly UI.
 
 ## 🌟 Featured Project
 
-### [Project Name](link-to-project)
-An innovative app built with Flutter, designed to [describe the core functionality briefly]. This project highlights my ability to:
+### [Chat Application](https://github.com/Radhi1228/chat_app)
+An innovative app built with Flutter, designed to Google Sign-in, Guest Sign-in, and Email/Password Sign-up & Sign-in. 
+Users can choose their preferred authentication method to access the app securely and conveniently. 
+ProfilePage , Light & Dark Themes,Splash Screen, ChatPage for Each Use. This project highlights my ability to:
 
 - **Craft responsive, engaging UIs** with Flutter.
-- Implement **efficient state management** using [e.g., Provider, Riverpod, Bloc].
-- Integrate **real-time data and APIs** for a dynamic user experience.
-- Ensure a **smooth, cross-platform experience** on both Android and iOS.
-
-| Feature       | Description                                             |
-|---------------|---------------------------------------------------------|
-| **Feature 1** | A concise description of the feature                    |
-| **Feature 2** | Brief detail on how it adds value                       |
-| **Feature 3** | How it enhances user interaction or functionality       |
-
-Check out the [live demo](link-to-demo) or [download](link-to-download) the app!
+- Implement efficient state management using [e.g., Provider, GetX].
+- Integrate real-time data and APIs for a dynamic user experience.
+- Ensure a smooth, cross-platform experience on both Android and iOS.
 
 ## 📚 Tech Stack
 
-- **Languages**: Dart, JavaScript (for backend/API integrations)
-- **Frameworks**: Flutter, Firebase (for real-time data handling)
+- **Languages**: Dart,C,C++ (for backend/API integrations)
+- **Frameworks**: Flutter, Firebase , Databse (for real-time data handling)
 - **Tools**: Android Studio, VS Code, Git
+- **Designs**: Figma
 
 ## 🛠 Projects & Contributions
 
 | Project Name          | Description                                                 | Tech Stack     |
 |-----------------------|-------------------------------------------------------------|----------------|
-| [Project 1](link)     | Brief project description and how it adds value             | Flutter, Dart |
-| [Project 2](link)     | Highlight unique aspects, like performance optimization     | Flutter, REST API |
-| [Project 3](link)     | Mention user engagement or specific tech challenges solved  | Flutter, Firebase |
+| [Weather App](https://github.com/Radhi1228/Sky_scapper)     | Fetch Weather Data and display,Detail Screen for Each City/State Wise Weather Detail,save city| Flutter, Dart, API, Shared preferance |
+| [Bhagvad Geeta](https://github.com/Radhi1228/Bhagvad_Geeta)     | All (18) chapters of Geeta using JSON Data,
+All Verses of Each type of Chapter,
+Light & Dark Theme (Shared Prefrence)
+Save favorite chapter & verses (using Shared Prefrence )     | Flutter, JSON Data,Sqlites |
+| [Quotes App](https://github.com/Radhi1228/DB_miner)     | All catrgories of quotes (using sqlites) (UI+logic) 
+Detail Screen of Each type of Quotes,Bookmark of favorite quotes (using sqlite) 
+ | Flutter, API,Sqlites |
 
 ## 🌱 Currently Learning
 
