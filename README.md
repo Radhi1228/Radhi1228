@@ -38,8 +38,6 @@ Save favorite chapter & verses (using Shared Prefrence )     | Flutter, JSON Dat
   
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
-- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/radhi-rakhasiya-8109682a5/)
 
 Looking forward to connecting and sharing more of my journey!
