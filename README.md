@@ -24,7 +24,8 @@ I've worked on various projects that showcase my skills in building powerful, us
 
 𖾚 Repositories
 Here are some projects thats show my work 
-[![Qoutes App](https://github.com/Radhi1228/DB_miner)]
+# Quotes App
+[(https://github.com/Radhi1228/DB_miner)]
 - 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
